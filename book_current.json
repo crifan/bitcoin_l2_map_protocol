@@ -1,0 +1,19 @@
+{
+  "title": "比特币L2：MAP Protocol",
+  "description": "整理Bitcoin比特币的L2层的协议：MAP Protocol脉波协议。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "bitcoin_l2_map_protocol"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/bitcoin_l2_map_protocol/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/bitcoin_l2_map_protocol/pdf/bitcoin_l2_map_protocol.pdf"
+    }
+  }
+}
